@@ -3,6 +3,8 @@
 <!--
 **raffaeldutra/raffaeldutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ Full cicle automation using [Packer](https://packer.io), [Terraform](https://terraform.io), [Ansible](https://www.ansible.com/) with AWS/Google with [Gitlab](https://gitlab.com)).
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
