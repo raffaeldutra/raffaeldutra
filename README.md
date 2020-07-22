@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+```
 Brazilian, living at <a href="https://goo.gl/maps/La8zQp6nXjp" target="_blank">Porto Alegre/RS</a>
 
 14 years of experience in Information Technology, Network Administration, Infrastructure analysis, working especially with [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html).
@@ -16,3 +17,4 @@ and ...
 * TDD (Test-driven development) for Ansible Roles.
 
 Full info, check [https://rafaeldutra.me/cv/me](https://rafaeldutra.me/cv/me)
+```
