@@ -15,14 +15,4 @@ and ...
 * Hashicorp [Vault](https://vaultproject.io)
 * TDD (Test-driven development) for Ansible Roles.
 
-#### Terraform posts (Portuguese content)
-
-* 2020/01/07 - [https://blog.4linux.com.br/introducao-ao-terraform/](https://blog.4linux.com.br/introducao-ao-terraform/)
-* 2020/01/16 - [https://blog.4linux.com.br/terraform-parte2-alterando-sua-infraestrutura-de-forma-incremental/](https://blog.4linux.com.br/terraform-parte2-alterando-sua-infraestrutura-de-forma-incremental/)
-* 2020/01/30 - [https://blog.4linux.com.br/terraform-parte3-criando-dependencias-entre-recursos/](https://blog.4linux.com.br/terraform-parte3-criando-dependencias-entre-recursos/)
-* 2020/02/29 - [https://blog.4linux.com.br/terraform-parte4-criando-modulos/](https://blog.4linux.com.br/terraform-parte4-criando-modulos/)
-* 2020/03/17 - [https://blog.4linux.com.br/terraform-parte5-versionando-a-sua-infraestrutura/](https://blog.4linux.com.br/terraform-parte5-versionando-a-sua-infraestrutura/)
-* 2020/03/24 - [https://blog.4linux.com.br/terraform-parte-6-utilizando-modulos-com-outros-modulos/](https://blog.4linux.com.br/terraform-parte6-utilizando-modulos-com-outros-modulos/)
-
-
-For full info, check [https://rafaeldutra.me/cv/me](https://rafaeldutra.me/cv/me)
+Full info, check [https://rafaeldutra.me/cv/me](https://rafaeldutra.me/cv/me)
