@@ -16,3 +16,8 @@ and ...
 * TDD (Test-driven development) for Ansible Roles.
 
 Full info, check [https://rafaeldutra.me/cv/me](https://rafaeldutra.me/cv/me)
+
+<p align="center">
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=raffaeldutra&count_private=true&show_icons=true&theme=onedark" alt="My GitHub stats"/>
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffaeldutra&langs_count=10&layout=compact&theme=onedark" alt="Most Used Language"/>
+</p>
